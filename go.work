@@ -1,0 +1,15 @@
+go 1.20
+
+use (
+	./data-access
+	./effectivego
+	./fuzz
+	./generics
+	./gowiki
+	./greetings
+	./hello
+	./helloagain
+	./web-service-gin
+	./workspace/example
+	./workspace/hello
+)
